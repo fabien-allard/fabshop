@@ -4,7 +4,7 @@ body{
     padding: 0;
     font: 14px sans-serif;
     font-family: monospace;
-    background-image:url();
+    background-image:url(les_images/Machu-Picchu.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     opacity:0,8;
@@ -14,7 +14,6 @@ main{
     display:flex;
 }
 
-
 .box {
     padding: 30px 25px 10px 25px;
     margin: 30px auto;
@@ -22,15 +21,12 @@ main{
     margin-top:140px;
 }
 
-h1{
-    font-size:18px;
-}
+
+
 strong{
     margin-left:5px;
 }
-p{
-    font-size:15px;
-}
+
 
 #btn1{
     border-radius: 5px;
@@ -47,14 +43,6 @@ p{
 }
 #btn1:hover{
 color:black;
-}
-.inscription{
-    text-decoration:none;
-    font-size:13px;
-    color:red;
-}
-.inscription:hover{
-    color:white;
 }
 footer{
     margin-top:175px;

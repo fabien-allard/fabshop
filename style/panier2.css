@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+body{ 
+    box-sizing: border-box;
+    font: 14px sans-serif;
+    height:97vh; 
+    align-items:center;
+}
+
+strong{
+    margin-left:5px;
+    text-align:center;
+}
+.rowtitle{
+text-align:center;
+}
+
+.first{
+text-align:center;
+margin-top:25px;
+}
+#icones{
+margin-top:15px;
+}
+span{
+margin-bottom:5px;
+}
+
+.items{
+text-align:right;
+}
+.total{
+text-align:right;
+}
+.shopping{
+text-align:right;
+margin-top:18px;
+}
+img{
+margin-bottom:15px;
+}
+#titre{
+font-size:18px;
+margin-bottom:5px;
+}
+.checkout{
+    margin-top:15px;
+}
+
+.nav-link a:hover{
+    color:red;
+}
+
+#proceed{
+    margin-top:-15px;
+}
+
+.imgproduit{
+    margin-top:15px;
+}
+
+.imgp{
+    width:180px;
+    height:150px;
+    margin:18px;
+}
+
+
+.tab{
+    height:55px;
+    width:24%;
+    margin-right:-25%;
+    margin-top:-40px;
+    }
+
+@media screen and (max-width:1700px){
+    .tab{
+        width:24%;
+    }
+    .monpanier{
+        margin-right:5%;
+    }
+}
+@media screen and (max-width:810px){
+    
+    .tab{
+        width: 100%;
+    }
+    .monpanier{
+        margin-bottom:5%;
+        margin-right:10%;
+    }
+}
+@media screen and (max-width:1080px){
+    .tab{
+        width:100%;
+    }
+    .monpanier{
+        margin-right:5%;
+    }
+}
+@media screen and (max-width:412px){
+    
+    .tab{
+        width: 100%;
+    }
+    .monpanier{
+        margin-bottom:5%;
+        margin-right:10%;
+    }
+}
+
+.wel{
+    font-size:18px;
+    color:red;
+    text-align:center;
+}
+
+.tab{
+height:55px;
+width:24%;
+margin-right:-25%;
+margin-top:-40px;
+}
+.col{
+height:80px;
+}
+.colon{
+height:50px;
+}
+ul{
+margin-left:6%;
+margin-top:-2%
+}
+.monpanier{
+margin-right:2%;
+}
+footer{
+margin-top:25px;
+}
